@@ -12,7 +12,7 @@
 Here is the breakdown of my work and learning path:
 
 ### 1. 📚 Knowledge Base (คลังความรู้และมาตรฐาน)
-* **[TFRS / IFRS Notes](https://github.com/Kuljira-Learner/Junior-audit-handbook/tree/main/06-TFRS-IFRS-Notes):** สรุปมาตรฐานการบัญชีและหลักการตรวจสอบที่สำคัญ
+* **[TFRS / IFRS Notes]([https://github.com/Kuljira-Learner/Junior-audit-handbook/tree/main/06-TFRS-IFRS-Notes](https://github.com/Kuljira-Learner/Junior-audit--handbook-/tree/main/06-TFRS-IFRS-Notes)):** สรุปมาตรฐานการบัญชีและหลักการตรวจสอบที่สำคัญ
 * **[Audit Fundamentals](https://github.com/Kuljira-Learner/Junior-audit-handbook/tree/main/01-Audit-Fundamentals):** รวมหลักการพื้นฐานและขั้นตอนการตรวจสอบบัญชี
 
 ### 2. 📊 Excel Worksheets & Working Papers (เครื่องมือปฏิบัติจริง)
