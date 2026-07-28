@@ -12,5 +12,7 @@ I am a professional in the audit and accounting field, focusing on building prac
 ### 💻 My Projects
 
 * [Junior-audit-handbook](https://github.com/Kuljira-Learner/Junior-audit-handbook) - คู่มือและแนวทางปฏิบัติสำหรับงานตรวจสอบบัญชีสำหรับผู้เริ่มต้น เพื่อช่วยให้การทำงานด้านออดิทเป็นระบบและเข้าใจง่ายยิ่งขึ้น
+* * 📁 **[01-Audit-Fundamentals](https://github.com/Kuljira-Learner/Junior-audit--handbook-/tree/main/01-Audit-Fundamentals):** สรุปเนื้อหาพื้นฐานการตรวจสอบบัญชี (Audit Fundamentals) สำหรับผู้เริ่มต้นเรียนรู้งานด้านออดิท
+
 
 *📈 **[Excel Work](https://github.com/Kuljira-Learner/Junior-audit-handbook/blob/main/data-dashboard.png):** ดูตัวอย่าง Dashboard / ผลงานของฉัน
