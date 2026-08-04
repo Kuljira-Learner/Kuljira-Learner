@@ -2,7 +2,7 @@
 
 🎓 Accounting Graduate | Aspiring Audit Associate
 
-I am building a portfolio focused on **Financial Statement Audit** and **Microsoft Excel**. This GitHub showcases audit working papers, substantive audit procedures, analytical reviews, and financial reporting documentation across key financial statement areas.
+I am passionate about **Financial Statement Audit**, **Microsoft Excel**, and **financial reporting**. This GitHub showcases my audit working papers, audit documentation, and Excel-based analysis across key financial statement areas. My goal is to continuously develop the practical skills required for an Audit Associate role.
 
 ---
 
@@ -24,38 +24,47 @@ I am building a portfolio focused on **Financial Statement Audit** and **Microso
 - XLOOKUP
 - SUMIFS
 - COUNTIFS
-- Analytical Review
+- IF
+- Conditional Formatting
 - Audit Documentation
 - Financial Statement Analysis
 - Git & GitHub
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### 📊 Financial Statement Audit Portfolio
+## 📊 Audit Analytics Portfolio
 
-A complete audit portfolio covering 15 financial statement areas, including:
+A portfolio demonstrating audit working papers and analytical procedures across 15 financial statement areas, including:
 
-- Audit Working Papers
-- Lead Schedules
-- Risk Assessment
-- Audit Programs
-- Substantive Testing
-- Analytical Review
-- Excel Dashboards
+- Cash & Bank
+- Revenue
+- Accounts Receivable
+- Inventory
+- Cost of Goods Sold
+- Purchases
+- Accounts Payable
+- Operating Expenses
+- Property, Plant & Equipment
+- Payroll
+- Tax
+- Loans
+- Equity
+- Financial Statements
+- Internal Control
+
+🔗 **Repository**
+https://github.com/Kuljira-Learner/Audit-Analytics-Portfolio
 
 ---
 
-### 📚 Junior Audit Handbook
+## 📚 Junior Audit Handbook
 
-A structured handbook covering:
+A structured handbook covering audit fundamentals, financial reporting standards, audit procedures, and practical audit guidance.
 
-- Audit Fundamentals
-- TFRS / IFRS
-- Audit Procedures
-- Internal Control
-- Financial Statement Audit
+🔗 **Repository**
+https://github.com/Kuljira-Learner/Junior-audit-handbook
 
 ---
 
@@ -65,10 +74,9 @@ A structured handbook covering:
 - Financial Statement Audit
 - Thai Financial Reporting Standards (TFRS)
 - International Standards on Auditing (ISA)
-### 2. 📊 Excel Worksheets & Working Papers (เครื่องมือปฏิบัติจริง)
-* **[Working Papers & Excel Tools](https://github.com/Kuljira-Learner/Junior-audit-handbook/tree/main/04-Working-Papers):** ตัวอย่างกระดาษทำการและโมเดล Excel ที่ใช้จริงในงานตรวจสอบ
 
-### 3. 🛠️ Learning Projects & Case Studies (ผลงานโปรเจกต์ที่เรียนรู้)
-* **[Junior Audit Handbook Repository](https://github.com/Kuljira-Learner/Junior-audit-handbook):** โปรเจกต์หลักที่รวบรวมคู่มือ การบ้าน และเคสศึกษาทั้งหมด
+---
 
-*📈 **[Excel Work](https://github.com/Kuljira-Learner/Junior-audit-handbook/blob/main/data-dashboard.png):** ดูตัวอย่าง Dashboard / ผลงานของฉัน
+## 📫 Connect with Me
+
+GitHub: https://github.com/Kuljira-Learner
