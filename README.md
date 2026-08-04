@@ -1,21 +1,70 @@
-### Hi there 👋
+# Hi, I'm Kuljira Pulkham 👋
 
-* 🔭 I'm currently working on developing financial and accounting projects (like my `Junior-audit-handbook`) 📊
-* 🌱 I'm currently learning GitHub and version control tools to improve my workflow 💻
-* 💬 Ask me about anything related to accounting, auditing, or finance principles
-* ⚡ Fun fact: I love combining professional financial work with modern digital tools and automation
+🎓 Accounting Graduate | Aspiring Audit Associate
+
+I am building a portfolio focused on **Financial Statement Audit** and **Microsoft Excel**. This GitHub showcases audit working papers, substantive audit procedures, analytical reviews, and financial reporting documentation across key financial statement areas.
 
 ---
 
-## ✨ My Audit Portfolio & Resources
+## 💼 Areas of Interest
 
-Here is the breakdown of my work and learning path:
+- Financial Statement Audit
+- External Audit
+- Audit Working Papers
+- Financial Reporting
+- Internal Control
+- Microsoft Excel
 
-### 1. 📚 Knowledge Base (คลังความรู้และมาตรฐาน)
-* **[TFRS / IFRS Notes]([https://github.com/Kuljira-Learner/Junior-audit-handbook/tree/main/06-TFRS-IFRS-Notes](https://github.com/Kuljira-Learner/Junior-audit--handbook-/tree/main/06-TFRS-IFRS-Notes)):** สรุปมาตรฐานการบัญชีและหลักการตรวจสอบที่สำคัญ
-* **[Audit Fundamentals]
-(https://github.com/Kuljira-Learner/Junior-audit--handbook-/tree/main/01-Audit-Fundamentals):** รวมหลักการพื้นฐานและขั้นตอนการตรวจสอบบัญชี
+---
 
+## 🛠 Skills
+
+- Microsoft Excel
+- Pivot Table & Pivot Chart
+- XLOOKUP
+- SUMIFS
+- COUNTIFS
+- Analytical Review
+- Audit Documentation
+- Financial Statement Analysis
+- Git & GitHub
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Financial Statement Audit Portfolio
+
+A complete audit portfolio covering 15 financial statement areas, including:
+
+- Audit Working Papers
+- Lead Schedules
+- Risk Assessment
+- Audit Programs
+- Substantive Testing
+- Analytical Review
+- Excel Dashboards
+
+---
+
+### 📚 Junior Audit Handbook
+
+A structured handbook covering:
+
+- Audit Fundamentals
+- TFRS / IFRS
+- Audit Procedures
+- Internal Control
+- Financial Statement Audit
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Microsoft Excel
+- Financial Statement Audit
+- Thai Financial Reporting Standards (TFRS)
+- International Standards on Auditing (ISA)
 ### 2. 📊 Excel Worksheets & Working Papers (เครื่องมือปฏิบัติจริง)
 * **[Working Papers & Excel Tools](https://github.com/Kuljira-Learner/Junior-audit-handbook/tree/main/04-Working-Papers):** ตัวอย่างกระดาษทำการและโมเดล Excel ที่ใช้จริงในงานตรวจสอบ
 
